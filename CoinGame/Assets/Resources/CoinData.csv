@@ -1,0 +1,4 @@
+name,nowCost,lastUpdate,bringCount,totalCost,useMoney,changeUp,changeDown,persent,getPersent,Chance
+ACoin,100000,0,0,0,0,"100, 5000","200, 6000",0,0,50
+BCoin,50000,0,0,0,0,"100, 1000","100, 1000",0,0,50
+CCoin,10000,0,0,0,0,"100, 500","100, 400",0,0,50
