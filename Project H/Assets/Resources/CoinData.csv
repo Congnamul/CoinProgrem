@@ -1,0 +1,4 @@
+﻿name,nowCost,lastUpdate,bringCount,totalCost,useMoney,changeUp,changeDown,issueUp,issueData,persent,getPersent,Chance
+ACoin,500000,0,0,0,0,"2000,5000","1000,50000","1000000,500000","False,False",0,0,50
+BCoin,100000,0,0,0,0,"100,500","50000,60000","3000,500","False,False",0,0,50
+CCoin,50000,0,0,0,0,"300,500","5000,14000","3000,500","False,False",0,0,50
